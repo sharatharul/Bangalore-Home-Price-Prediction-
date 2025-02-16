@@ -1,0 +1,332 @@
+2025-02-04 21:27:25,638 - HomePrice - INFO - Loading saved artifacts...
+2025-02-04 21:27:25,639 - HomePrice - INFO - Artifacts loaded successfully
+2025-02-04 21:27:25,640 - HomePrice - INFO - Starting Python Flask Server For Home Price Prediction...
+2025-02-04 21:27:28,047 - HomePrice - INFO - Loading saved artifacts...
+2025-02-04 21:27:28,048 - HomePrice - INFO - Artifacts loaded successfully
+2025-02-04 21:27:28,050 - HomePrice - INFO - Starting Python Flask Server For Home Price Prediction...
+2025-02-04 21:28:56,418 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-04 21:28:56,421 - HomePrice - INFO - Artifacts loaded successfully
+2025-02-04 21:28:56,424 - HomePrice - INFO - Starting Python Flask Server For Home Price Prediction...
+2025-02-04 21:29:06,839 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-04 21:29:06,839 - HomePrice - INFO - Artifacts loaded successfully
+2025-02-04 21:29:06,841 - HomePrice - INFO - Starting Python Flask Server For Home Price Prediction...
+2025-02-04 21:30:54,501 - HomePrice - INFO - Loading artifacts...
+2025-02-04 21:30:54,503 - HomePrice - INFO - Artifacts loaded successfully
+2025-02-04 21:30:54,503 - HomePrice - INFO - Starting Python Flask Server For Home Price Prediction...
+2025-02-04 21:37:30,234 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-04 21:37:30,294 - HomePrice - INFO - Artifacts verification successful
+2025-02-04 21:37:30,294 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-04 21:37:30,297 - HomePrice - INFO - Starting Python Flask Server For Home Price Prediction...
+2025-02-05 08:44:05,139 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-05 08:44:05,176 - HomePrice - INFO - Artifacts verification successful
+2025-02-05 08:44:05,176 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-05 08:44:07,256 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-05 08:44:07,257 - HomePrice - INFO - Artifacts verification successful
+2025-02-05 08:44:07,257 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-05 08:44:11,012 - HomePrice - ERROR - Uncaught exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-05 08:44:11,422 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-02-05 08:44:11,671 - HomePrice - ERROR - Uncaught exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-05 08:44:11,673 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-02-05 08:44:25,042 - HomePrice - ERROR - Uncaught exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-05 08:44:25,045 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-02-05 08:44:34,322 - HomePrice - ERROR - Uncaught exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-05 08:44:34,326 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-02-05 08:44:34,548 - HomePrice - ERROR - Uncaught exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-05 08:44:34,553 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-02-05 08:45:15,367 - HomePrice - DEBUG - Received prediction request
+2025-02-05 08:45:15,375 - HomePrice - INFO - Successful prediction: 452.33
+2025-02-05 08:47:16,681 - HomePrice - DEBUG - Received prediction request
+2025-02-05 08:47:16,683 - HomePrice - INFO - Successful prediction: 458.98
+2025-02-05 14:20:56,231 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-05 14:20:56,274 - HomePrice - INFO - Artifacts verification successful
+2025-02-05 14:20:56,274 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-05 14:20:58,654 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-05 14:20:58,656 - HomePrice - INFO - Artifacts verification successful
+2025-02-05 14:20:58,656 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-05 14:22:51,034 - HomePrice - DEBUG - Received prediction request
+2025-02-05 14:22:51,045 - HomePrice - INFO - Successful prediction: 202.38
+2025-02-05 14:23:04,803 - HomePrice - DEBUG - Received prediction request
+2025-02-05 14:23:04,808 - HomePrice - INFO - Successful prediction: 61.91
+2025-02-06 00:25:24,709 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-06 00:25:24,789 - HomePrice - INFO - Artifacts verification successful
+2025-02-06 00:25:24,790 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-06 00:25:27,120 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-06 00:25:27,121 - HomePrice - INFO - Artifacts verification successful
+2025-02-06 00:25:27,123 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-06 00:25:35,750 - HomePrice - ERROR - Uncaught exception: 405 Method Not Allowed: The method is not allowed for the requested URL.
+2025-02-06 00:25:35,980 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 624, in match
+    raise MethodNotAllowed(valid_methods=list(e.have_match_for)) from None
+werkzeug.exceptions.MethodNotAllowed: 405 Method Not Allowed: The method is not allowed for the requested URL.
+
+2025-02-06 00:25:36,249 - HomePrice - ERROR - Uncaught exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-06 00:25:36,251 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-02-06 00:27:28,992 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-06 00:27:28,993 - HomePrice - INFO - Artifacts verification successful
+2025-02-06 00:27:28,993 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-06 00:27:31,371 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-06 00:27:31,372 - HomePrice - INFO - Artifacts verification successful
+2025-02-06 00:27:31,373 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-06 00:27:32,276 - HomePrice - DEBUG - Received prediction request
+2025-02-06 00:27:32,278 - HomePrice - ERROR - Error during prediction: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-02-06 00:27:32,358 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "D:\SHARATH\Data science projects\BangaloreHomePrices\Server\server.py", line 168, in predict_home_price
+    data = request.get_json()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\wrappers.py", line 214, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+
+2025-02-06 00:27:32,424 - HomePrice - ERROR - Uncaught exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-06 00:27:32,428 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-02-06 00:29:56,675 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-06 00:29:56,686 - HomePrice - INFO - Artifacts verification successful
+2025-02-06 00:29:56,689 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-06 00:30:02,722 - HomePrice - DEBUG - Received prediction request
+2025-02-06 00:30:02,821 - HomePrice - INFO - Successful prediction: 39.29
+2025-02-06 00:30:07,708 - HomePrice - DEBUG - Received prediction request
+2025-02-06 00:30:07,713 - HomePrice - ERROR - Error during prediction: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-02-06 00:30:07,739 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "D:\SHARATH\Data science projects\BangaloreHomePrices\Server\server.py", line 168, in predict_home_price
+    data = request.get_json()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 604, in get_json
+    return self.on_json_loading_failed(None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\wrappers.py", line 214, in on_json_loading_failed
+    return super().on_json_loading_failed(e)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\wrappers\request.py", line 647, in on_json_loading_failed
+    raise UnsupportedMediaType(
+werkzeug.exceptions.UnsupportedMediaType: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+
+2025-02-06 00:30:08,075 - HomePrice - ERROR - Uncaught exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-06 00:30:08,080 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-02-07 09:37:19,413 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-07 09:37:19,417 - HomePrice - INFO - Artifacts verification successful
+2025-02-07 09:37:19,418 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-07 09:37:23,089 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-07 09:37:23,090 - HomePrice - INFO - Artifacts verification successful
+2025-02-07 09:37:23,091 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-07 09:38:32,379 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-07 09:38:32,688 - HomePrice - INFO - Artifacts verification successful
+2025-02-07 09:38:32,689 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-07 09:38:34,847 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-07 09:38:34,867 - HomePrice - INFO - Artifacts verification successful
+2025-02-07 09:38:34,871 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-07 09:39:16,924 - HomePrice - ERROR - Uncaught exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-07 09:39:17,019 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-02-07 09:39:17,308 - HomePrice - ERROR - Uncaught exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-07 09:39:17,309 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-02-07 09:39:36,206 - HomePrice - ERROR - Uncaught exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-07 09:39:36,257 - HomePrice - DEBUG - Stacktrace: Traceback (most recent call last):
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ADMIN\AppData\Local\Programs\Python\Python312\Lib\site-packages\werkzeug\routing\map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+2025-02-07 09:44:08,707 - HomePrice - DEBUG - Received prediction request
+2025-02-07 09:44:08,711 - HomePrice - INFO - Successful prediction: 50.14
+2025-02-07 20:27:00,390 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-07 20:27:00,457 - HomePrice - INFO - Artifacts verification successful
+2025-02-07 20:27:00,458 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-07 20:27:03,312 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-07 20:27:03,313 - HomePrice - INFO - Artifacts verification successful
+2025-02-07 20:27:03,313 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-10 17:36:44,071 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-10 17:36:44,188 - HomePrice - INFO - Artifacts verification successful
+2025-02-10 17:36:44,188 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-10 17:36:46,394 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-10 17:36:46,396 - HomePrice - INFO - Artifacts verification successful
+2025-02-10 17:36:46,396 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-10 17:37:01,408 - HomePrice - DEBUG - Received prediction request
+2025-02-10 17:37:01,408 - HomePrice - INFO - Successful prediction: 35.06
+2025-02-10 17:37:04,417 - HomePrice - DEBUG - Received prediction request
+2025-02-10 17:37:04,422 - HomePrice - INFO - Successful prediction: 33.56
+2025-02-10 17:37:08,747 - HomePrice - DEBUG - Received prediction request
+2025-02-10 17:37:08,750 - HomePrice - INFO - Successful prediction: 32.05
+2025-02-15 09:35:11,835 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-15 09:35:11,878 - HomePrice - INFO - Artifacts verification successful
+2025-02-15 09:35:11,879 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-15 09:35:17,492 - HomePrice - INFO - Loading artifacts (attempt 1/3)...
+2025-02-15 09:35:17,499 - HomePrice - INFO - Artifacts verification successful
+2025-02-15 09:35:17,500 - HomePrice - INFO - Artifacts loaded and verified successfully
+2025-02-15 09:36:53,505 - HomePrice - DEBUG - Received prediction request
+2025-02-15 09:36:53,523 - HomePrice - INFO - Successful prediction: 51.74
